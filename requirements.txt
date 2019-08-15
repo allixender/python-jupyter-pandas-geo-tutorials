@@ -1,3 +1,10 @@
 pandas
+openpyxl
+xlrd
+matplotlib
 geopandas
+fiona
+descartes
+mapclassify
+pysal
 jupyter
