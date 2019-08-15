@@ -1,13 +1,16 @@
-# Python Pandas Coding Meetup
+# Python Pandas and Geopandas in Jupyter Coding Tutorials
 
-In this meetup we want to play with the 
+In this tutorials we want to play with the 
 Jupyter Notebook (http://jupyter.org/) and do some data 
 wrangling with Python, Pandas (http://pandas.pydata.org/) and co.,
 some data analysis and visualisation.
 
-https://www.meetup.com/preview/Coding-Dojo-Tartu/events/243543546
+Start in Binder to work directly online (no install required):
 
-https://www.facebook.com/events/2004683793149132/
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/allixender/python-jupyter-pandas-geo-tutorials/master?filepath=README.notebook.ipynb)
+
+
+# Do it locally
 
 ## Preparations
 
